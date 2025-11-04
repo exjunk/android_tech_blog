@@ -3,3 +3,16 @@ title = "Android Tech Blog"
 theme = "PaperMod"
 languageCode = "en-us"
 papersize = 10
+
+[params.footer]
+  [[params.footer.links]]
+    name = "About"
+    url = "/about/"
+  
+  [[params.footer.links]]
+    name = "Contact"
+    url = "/contact/"
+  
+  [[params.footer.links]]
+    name = "Privacy Policy"
+    url = "/privacy/"
