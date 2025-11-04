@@ -14,19 +14,14 @@ languageCode = "en-us"
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 10
+    weight = 30
 
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 20
+    weight = 30
 
-  [[menu.main]]
-    identifier = "archives"
-    name = "Archives"
-    url = "/archives/"
-    weight = 25
 
   [[menu.main]]
     identifier = "privacy"
@@ -35,7 +30,7 @@ languageCode = "en-us"
     weight = 30
 
 [params]
-  ShowShareButtons = true
+  ShowShareButtons = false
   ShowReadingTime = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
