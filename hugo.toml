@@ -34,3 +34,7 @@ languageCode = "en-us"
   ShowReadingTime = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
+  analytics_provider = "ga4"
+  ga4_measurement_id = "G-YWVSDJ8DST"
+  
+ 
